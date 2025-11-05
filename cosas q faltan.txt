@@ -1,0 +1,4 @@
+Falta: 
+4)Que se vea la ciudad y departamento en detalles servicios
+6)Reseñas
+7)Administrador
